@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-   <img src = assets/barbearia-alura.gif>
+   <img src = assets/Barbearia-alura.gif>
 </h1>
 
 # 🔖Sobre
